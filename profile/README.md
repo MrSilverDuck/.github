@@ -4,10 +4,12 @@
 
 ### Universal GPU compute. Bare-metal boot. A duck programming language.
 
+**Short link: [mrsilverduck.lif-6.com](https://mrsilverduck.lif-6.com)**
+
 *Built by [Nightbox LLC](https://nightboxllc.com) · Wyoming, USA · MIT licensed*
 
-[![UniGPU](https://img.shields.io/github/v/release/MrSilverDuck/unigpu?include_prereleases&label=UniGPU&color=orange)](https://github.com/MrSilverDuck/unigpu)
-[![Quack](https://img.shields.io/github/v/release/MrSilverDuck/quack?include_prereleases&label=Quack&color=ff69b4)](https://github.com/MrSilverDuck/quack)
+[![UniGPU](https://img.shields.io/github/v/release/MrSilverDuck/unigpu?include_prereleases&label=UniGPU&color=orange)](https://mrsilverduck.lif-6.com/unigpu)
+[![Quack](https://img.shields.io/github/v/release/MrSilverDuck/quack?include_prereleases&label=Quack&color=ff69b4)](https://mrsilverduck.lif-6.com/quack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MrSilverDuck/unigpu/blob/main/LICENSE)
 
 </div>
@@ -59,10 +61,24 @@ Full numbers: [BENCHMARKS.md](https://github.com/MrSilverDuck/unigpu/blob/main/B
 
 ## Get involved
 
-- 🐛 [Open an issue](https://github.com/MrSilverDuck/unigpu/issues) — bugs, requests, hardware reports
+- 🐛 [Open an issue](https://mrsilverduck.lif-6.com/issues) — bugs, requests, hardware reports
 - 🦆 [Read the FAQ](https://github.com/MrSilverDuck/unigpu/blob/main/FAQ.md) — answers most questions before they're asked
 - 🛠️ [HACKING.md](https://github.com/MrSilverDuck/unigpu/blob/main/docs/HACKING.md) — add a backend, write a kernel
-- 📋 [GETTING_STARTED.md](https://github.com/MrSilverDuck/unigpu/blob/main/docs/GETTING_STARTED.md) — clone → build → run
+- 📋 [GETTING_STARTED.md](https://mrsilverduck.lif-6.com/docs) — clone → build → run
+
+## Short links
+
+| URL | Where it goes |
+|---|---|
+| [`mrsilverduck.lif-6.com`](https://mrsilverduck.lif-6.com) | this org |
+| [`mrsilverduck.lif-6.com/unigpu`](https://mrsilverduck.lif-6.com/unigpu) | UniGPU repo |
+| [`mrsilverduck.lif-6.com/quack`](https://mrsilverduck.lif-6.com/quack) | Quack repo |
+| [`mrsilverduck.lif-6.com/releases`](https://mrsilverduck.lif-6.com/releases) | latest UniGPU release (incl. ISO) |
+| [`mrsilverduck.lif-6.com/iso`](https://mrsilverduck.lif-6.com/iso) | bootable ISO download |
+| [`mrsilverduck.lif-6.com/install`](https://mrsilverduck.lif-6.com/install) | one-line installer |
+| [`mrsilverduck.lif-6.com/issues`](https://mrsilverduck.lif-6.com/issues) | bug tracker |
+
+(All 301 via Cloudflare on `lif-6.com`. The biotech parent brand at [nightboxllc.com](https://nightboxllc.com) is intentionally separate.)
 
 ## Licenses & trademarks
 
